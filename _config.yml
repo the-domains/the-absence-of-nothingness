@@ -1,0 +1,28 @@
+name: The Absence of Nothingness
+favicon: null
+layout_spectrum: 0.2775575916748494
+typography_spectrum: 0.42796520749107003
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.25387658830732107
+  lightness: 0.4972032424993813
+  saturation: 0.4485150936525315
+  rhythmicContrast: 0.6203999726567417
+purpose: []
